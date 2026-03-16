@@ -1,5 +1,5 @@
 ---
-name: how-to-order-kopi-like-a-pro
+name: openclaw-singapore-kopi
 description: Teach Singapore and Malaysia kopi stall ordering shorthand, translate plain-language coffee preferences into hawker jargon, and explain modifiers like kopi, o, c, kosong, peng, gao, po, and siew dai.
 ---
 
